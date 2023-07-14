@@ -12,4 +12,6 @@ When importing this shortcut, it /should/ ask you a few questions as a setup:
 
 That being said, this shortcut is based on my use-case. If you also need personal and work todos and notes, it should work out of the box for you. You can otherwise edit it to meet your own use-case.
 
+You will need to manually download the org-capture.shortcut file from this repo. If anyone knows a way to direct link to a github file, please let me know!
+
 If you find this shortcut useful, I only ask that you link back to me [at my blog](https://blog.samhain.io) or at my [mastodon account](https://emacs.ch/@grim).
