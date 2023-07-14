@@ -5,7 +5,7 @@ More detail can be found at [this blog post](https://blog.samhain.io/posts/org-c
 When importing this shortcut, it /should/ ask you a few questions as a setup:
 - Folder location for your personal org files
 - Folder location for your work org files
-- Filname (without path) of your personal TODO file
+- Filename (without path) of your personal TODO file
 - Filename (without path) of your work TODO file
 - Filename (without path) of your personal notes file
 - Filename (without path) of your work notes file
