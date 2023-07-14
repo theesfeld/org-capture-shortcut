@@ -1,6 +1,6 @@
 # org-capture-shortcut
 org-capture Apple Shortcut
-More detail can be found at [https://blog.samhain.io/posts/org-capture-shortcut/](this blog posts)
+More detail can be found at [https://blog.samhain.io/posts/org-capture-shortcut](this blog post)
 
 When importing this shortcut, it /should/ ask you a few questions as a setup:
 - Folder location for your personal org files
