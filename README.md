@@ -22,7 +22,7 @@ I use [spacemacs](https://www.spacemacs.org) and [org-mode](https://orgmode.org)
 
 The machine I use most is an M1 macbook pro, and my mobile device is an iphone.
 
-It is simple to add a todo or a note using org-mode capture templates, when inside of emacs on the macbook. (`C-c-c`).
+It is simple to add a todo or a note using org-mode capture templates, when inside of emacs on the macbook. (`C-c c`).
 
 On the iphone, it is nearly impossible to achieve the workflow I normally use.
 
