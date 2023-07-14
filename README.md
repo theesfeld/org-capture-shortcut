@@ -51,12 +51,11 @@ I symlink mine to my home directory
 
 When importing this shortcut, it *should* ask you a few questions as a setup:
 - Folder location for your personal org files *(example: your iCloud org folder)*
+  - Filename (without path) of your personal TODO file *(example: todo.org)*
+  - Filename (without path) of your personal notes file *(example: notes.org)*
 - Folder location for your work org files *(example: your iCloud org folder/work/)*
-- Filname (without path) of your personal TODO file *(example: todo.org)*
-- Filename (without path) of your work TODO file *(example: todo.org)*
-- Filename (without path) of your personal notes file *(example: notes.org)*
-- Filename (without path) of your work notes file *(example: notes.org)*
-
+  - Filename (without path) of your work TODO file *(example: todo.org)*
+  - Filename (without path) of your work notes file *(example: notes.org)*
 
 That being said, this shortcut is based on my use-case. If you also need personal and work todos and notes, it should work out of the box for you. You can otherwise edit it to meet your own use-case.
 
